@@ -18,6 +18,7 @@ First, ensure that Apache is installed on your Ubuntu system. If it's not alread
 sudo apt update
 sudo apt install apache2
 ```
+```
 
 ### Step 2: Create the Website Directory
 Assuming your website directory is named `portfolio` and is located in your home directory, copy it to the Apache web directory:
