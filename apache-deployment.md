@@ -1,4 +1,3 @@
-```markdown
 # Deploying Your Portfolio Website on Apache
 
 This guide will walk you through the steps to deploy your portfolio website on Apache, using `portfolio` as the website directory and `portfolio.conf` as the configuration file. The domain for the website will be set as `myportfolio.com`.
@@ -17,7 +16,6 @@ First, ensure that Apache is installed on your Ubuntu system. If it's not alread
 ```sh
 sudo apt update
 sudo apt install apache2
-```
 ```
 
 ### Step 2: Create the Website Directory
